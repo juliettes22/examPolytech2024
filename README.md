@@ -33,13 +33,14 @@ Pour mysql vous pouvez utiliser la commande "mysqladmin ping -h localhost"
 13) Faire fonctionner les containers ensemble et faire valider
 
 14) Pusher vos deux images sur la registry avec la nomenclature java:prenom et angular:prenom  
-Un l'url et le token de connexion vous sera donner pendant l'exam.
+L'url et le token de connexion vous sera donner pendant l'exam.
 
-15) Rédiger un workflow github action qui permet de builder vos deux docker images
+15) Rédiger un workflow github action pour faire l'intégration continue de ces deux projets.
 
 --- 
 
 Dans un fichier txt simple à coté de votre docker-compose.yml répondez aux questions suivantes:  
+
 16) Qu'est ce que Docker ? A quoi cela sert-il ?
 
 17) Qu'est ce que la CI et la CD ? Pourquoi est-ce utile ?
@@ -48,4 +49,4 @@ Dans un fichier txt simple à coté de votre docker-compose.yml répondez aux qu
 
 19) Surprenez moi
 
-20) Créer un repo sur github et pusher votre code
+20) Pusher votre code sur github avec votre fichier de réponse aux questions et envoyer moi les urls de vos repos github.
