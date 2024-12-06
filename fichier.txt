@@ -1,0 +1,17 @@
+16. 
+Docker est une technologie qui permet de lancer des conteneurs dans lesquels les applications peuvent être exécutées. Un conteneur Docker contient de quoi faire tourner une application : le code, les bibliothèques, les dépendances. Cela permet de s'assurer que l'application fonctionne de la même manière, quelle que soit la machine ou l'environnement sur lequel elle est déployée.
+
+Cela permet de simplifier le développement et le déploiement. Les dépendances nécessaires au bon fonctionnement de l'application sont incluses dans le conteneur. 
+
+De plus, les conteneurs Docker sont faciles à installer et à déployer. 
+
+Docker rend le travail plus simple et plus fluide et permet de réduire des conflits.
+
+
+17. 
+L'intégration continue a pour objectif d'intégrer régulièrement le code de tous les développeurs d’un projet dans un dépôt central. L’objectif est de détecter rapidement les erreurs et de valider le code au fur et à mesure qu'il est écrit. Chaque changement est automatiquement testé par des outils d'intégration, ce qui permet de réduire le risque de régression. De plus, mettre le code régulièrement permet de réduire les conflits.
+
+Le déploiement continu permet de préparer le code pour qu'il soit prêt à être déployé en production à tout moment. C'est composé de tests automatisés pour permettre une mise en production rapide. Le code est mis plus rapidement et plus fréquemment en production. Les utilisateurs reçoivent plus rapidement les nouvelles fonctionnalités et résolution de bug.
+
+18. 
+Le cours était intéressant, c'était un sujet que je ne connaissais pas du tout. Pendant le cours, j'ai pu apprendre beaucoup de chose même si j'avais besoin souvent d'aide. J'ai réussi à comprendre les idées générales et les mettre en application avec de l'aide. Par contre pendant l'examen j'ai eu beaucoup de mal à tout mettre en place toute seule. Mais je suis quand même satisfaite du cours car j'ai quand même l'impression d'avoir appris des nouvelles notions et j'ai réussi à mettre le système en place durant le cours.
